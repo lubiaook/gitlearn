@@ -1,4 +1,4 @@
-git is a good tool
+我需要一个小伙伴 git is a good tool
 git is :
 建立dev分支 我要搞事情
 我要在dev上修改文件
