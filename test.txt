@@ -1,4 +1,3 @@
-git is a good tool
-git is :
+git is a good tool:我在dev分支上修改了第一行内容
 建立dev分支 我要搞事情
 我要在dev上修改文件
